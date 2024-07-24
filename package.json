@@ -1,0 +1,16 @@
+{
+  "name": "masqr-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.14.12"
+  }
+}
